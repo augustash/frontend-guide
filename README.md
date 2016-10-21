@@ -3,13 +3,13 @@ Resource/guide for onboarding frontend developers
 
 `version 1.0`
 
-## Environment
+## [Environment](https://github.com/augustash/frontend-guide/blob/master/environment.md)
 
 1. Homebrew
 2. Pantheon
 
 
-## Tools
+## [Tools](https://github.com/augustash/frontend-guide/blob/master/tools.md)
 
 1. Terminal
 2. Browsers
@@ -18,16 +18,16 @@ Resource/guide for onboarding frontend developers
 5. Sublime/IDE 
 
     
-## Frontend Development
+## [Frontend Development](https://github.com/augustash/frontend-guide/blob/master/frontend.md)
 
 1. Foundation Framework
 2. Javascript
 
 
-## Drupal
+## [Drupal](https://github.com/augustash/frontend-guide/blob/master/drupal.md)
 1. Introduction
 2. Drupal at AAI
 
 
-## Magento
+## [Magento](https://github.com/augustash/frontend-guide/blob/master/magento.md)
 1. meh

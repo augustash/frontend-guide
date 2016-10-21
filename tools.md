@@ -9,7 +9,7 @@
 
 ## iOS simulator (xcode)
 
-## Sequel Pro (https://www.sequelpro.com/)
+## Sequel Pro
 
 ## Sublime/IDE (themes, plugins, workflow)
   * plugins/addons
