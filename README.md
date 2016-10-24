@@ -20,8 +20,10 @@ Resource/guide for onboarding frontend developers
     
 ## [Frontend Development](https://github.com/augustash/frontend-guide/blob/master/frontend.md)
 
-1. Foundation Framework
-2. Javascript
+1. HTML5
+2. CSS3
+3. Javascript
+4. Zurb Foundation
 
 
 ## [Drupal](https://github.com/augustash/frontend-guide/blob/master/drupal.md)

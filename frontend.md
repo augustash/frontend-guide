@@ -11,9 +11,14 @@ Below are links to trainings/Resources for general frontend develeopment.
 ## CSS3
 
 ### Training
+  * [Introduction to SASS](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass)
+  * [SASS Video Training Guide](https://www.youtube.com/watch?v=fbVD32w1oTo&list=PL2CB1F80266E986EA)
 
 ### Resources
-
+  * [W3C CSS3 Documentation](http://www.w3schools.com/css/css3_intro.asp)
+  * [Codrops CSS Inspiration](http://tympanus.net/codrops/)
+  * [On-the-fly Sass Compiler](http://www.sassmeister.com/)
+  * [CSS-Tricks Resources/Inspiration](https://css-tricks.com/)
 
 ## Javascript
 
@@ -28,7 +33,7 @@ Below are links to trainings/Resources for general frontend develeopment.
   * [JS Fiddle](https://jsfiddle.net) - Create, share, execute and test your JavaScript right in the browser
 
 
-## Foundation Framework
+## Zurb Foundation
 We at AAI use Zurb Foundation as our frontend framework. This is done to keep frontend development as similar as it can be across any CMS platform we use.
 
 ### Training
