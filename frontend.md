@@ -4,9 +4,11 @@ Below are links to trainings/Resources for general frontend develeopment.
 ## HTML5
 
 ### Training
+  * [HTML5 Intro/Training Videos](https://www.youtube.com/watch?v=GQUGsHEnlcs&list=PL8FF775A6DCED7D2A)
 
 ### Resources
-
+  * [W3 Schools HTML Resource Guide](http://www.w3schools.com/html/html5_intro.asp)
+  * [HTML Validator](https://validator.w3.org)
 
 ## CSS3
 
