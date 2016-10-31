@@ -8,7 +8,6 @@ Homebrew is a package manage for MacOS that installs the stuff you need that App
   * [Frequently Asked Questions](https://github.com/Homebrew/brew/blob/master/docs/FAQ.md)
   * [Tips and Tricks](https://github.com/Homebrew/brew/blob/master/docs/Tips-N'-Tricks.md)
   * [Gems, Eggs and Perl Modules](https://github.com/Homebrew/brew/blob/master/docs/Gems,-Eggs-and-Perl-Modules.md)
-  * [Homebrew and Python](https://github.com/Homebrew/brew/blob/master/docs/Homebrew-and-Python.md)
 
 ####Common Packages
 
