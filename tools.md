@@ -2,6 +2,9 @@
 
 ## Terminal
 
+## GIT
+
+
 ## Browsers
   * [Firebug - Firefox Inspector](http://getfirebug.com/)
   * [Chrome Inspector Guide/Resource](https://developer.chrome.com/devtools)
