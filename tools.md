@@ -19,15 +19,18 @@ Terminus is Pantheon's Command Line Interface (CLI), providing equivalent functi
 
 ## Browser Tools/Plugins
 #### Firefox
-  * [Firebug](http://getfirebug.com/)
-  * [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
-  * [Performance Analyser](https://addons.mozilla.org/en-US/firefox/addon/performance-analyser/)
+  * [Firebug](http://getfirebug.com)
+  * [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer)
+  * [Performance Analyser](https://addons.mozilla.org/en-US/firefox/addon/performance-analyser)
+  
 #### Chrome
   * [Inspector Guide/Resource](https://developer.chrome.com/devtools)
   * [Web Developer Toolbar](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
   * [Performance Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)
+
 #### Safari
   * Nobody uses Safari for development and you shouldn't either.
+  
 #### Internet Explorer
   * [IE Tester - Browserstack](https://www.browserstack.com)
 
