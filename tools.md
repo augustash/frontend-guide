@@ -17,13 +17,19 @@ Terminus is Pantheon's Command Line Interface (CLI), providing equivalent functi
   * [Git basics and Resources](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
   * [Github](https://github.com)
 
-## Browsers
-  * [Firebug - Firefox Inspector](http://getfirebug.com/)
-  * [Chrome Inspector Guide/Resource](https://developer.chrome.com/devtools)
-  * [Firefox Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
-  * [Chrome Web Developer Toolbar](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
-  * [Firefox Performance Analyser](https://addons.mozilla.org/en-US/firefox/addon/performance-analyser/)
-  * [Chrome Performance Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)
+## Browser Tools/Plugins
+#### Firefox
+  * [Firebug](http://getfirebug.com/)
+  * [Web Developer Toolbar](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
+  * [Performance Analyser](https://addons.mozilla.org/en-US/firefox/addon/performance-analyser/)
+#### Chrome
+  * [Inspector Guide/Resource](https://developer.chrome.com/devtools)
+  * [Web Developer Toolbar](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+  * [Performance Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)
+#### Safari
+  * Nobody uses Safari for development and you shouldn't either.
+#### Internet Explorer
+  * [IE Tester - Browserstack](https://www.browserstack.com)
 
 ## iOS simulator (xcode)
 An application built into Xcode that emulates iOS on your local machine. This is used for app building but can be handy when testing responsive sites and how things render on specific devices/screen sizes.
