@@ -1,9 +1,21 @@
 # Tools 
 
 ## Terminal
+Terminal is the built-in app for MacOS that allows you to interactive with your computer via the command line.
 
-## GIT
+  * [Introduction](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+  * [iTerm](https://www.iterm2.com) - Terminal replacement app that has a lot of useful/cool features
 
+## Terminus
+
+Terminus is Pantheon's Command Line Interface (CLI), providing equivalent functionality to the Pantheon Web Dashboard and easier scripting.
+
+  * [Installation and Documentation](https://github.com/pantheon-systems/terminus)
+
+## Git
+  
+  * [Git basics and Resources](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+  * [Github](https://github.com)
 
 ## Browsers
   * [Firebug - Firefox Inspector](http://getfirebug.com/)

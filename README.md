@@ -12,10 +12,13 @@ Resource/guide for onboarding frontend developers
 ## [Tools](https://github.com/augustash/frontend-guide/blob/master/tools.md)
 
 1. Terminal
-2. Browsers
-3. iOS simulator
-4. Sequel Pro
-5. Sublime/IDE 
+2. Terminus
+3. Git
+4. Browsers
+5. iOS simulator
+6. Sequel Pro
+7. Sublime/IDE 
+8. Sketch
 
     
 ## [Frontend Development](https://github.com/augustash/frontend-guide/blob/master/frontend.md)

@@ -1,10 +1,10 @@
 # Drupal
 
 ## Introduction/Relevant platform documentation
-  * https://www.drupal.org/docs/8/understanding-drupal
-  * https://www.drupal.org/docs/8/understanding-drupal-version-numbers
-  * https://www.drupal.org/docs/8/theming
-  * https://www.drupal.org/docs/8/configuration-management/managing-your-sites-configuration 
+  * [Understand Drupal](https://www.drupal.org/docs/8/understanding-drupal)
+  * [Drupal's Versioning](https://www.drupal.org/docs/8/understanding-drupal-version-numbers)
+  * [Drupal Theming](https://www.drupal.org/docs/8/theming)
+  * [Configuration Managment](https://www.drupal.org/docs/8/configuration-management/managing-your-sites-configuration)
 
 ## Drupal at AAI
   * Naming conventions
