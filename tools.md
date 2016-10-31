@@ -26,7 +26,8 @@ Terminus is Pantheon's Command Line Interface (CLI), providing equivalent functi
   * [Chrome Performance Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)
 
 ## iOS simulator (xcode)
-  * [Getting Start](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html) - Allows testing from a local environment.
+An application built into Xcode that emulates iOS on your local machine. This is used for app building but can be handy when testing responsive sites and how things render on specific devices/screen sizes.
+  * [Getting Started](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html)
 
 ####Add shortcut to your dock
   * Go to Applications -> Xcode. Right click and 'Show Package Contents'
@@ -35,9 +36,14 @@ Terminus is Pantheon's Command Line Interface (CLI), providing equivalent functi
 
 ## Sequel Pro
 A database management application for MacOS. Simple GUI for common database tasks like importing, exporting, user management, and DB creation.
-  * (Download](https://www.sequelpro.com/)
+  * [Download](https://www.sequelpro.com/)
 
 ## Sublime/IDE (themes, plugins, workflow)
   * plugins/addons
   * workflow
   * themes
+
+## Sketch
+A MacOS application specific for interface building. AAI produces designs using this application so assets may need to be retrieved from these files from time to time.
+  * [Sketch Website](https://www.sketchapp.com/)
+  * [Documentation](https://www.sketchapp.com/learn/documentation/)
