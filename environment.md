@@ -59,6 +59,10 @@ $ brew services percona-server start
 As a developer you will most often need PHP 5.6 and PHP 7.0 to cover recent projects (1-2 years old) and support for new projects and frameworks that are capable of supporting PHP 7+
 
 ```bash
+# Tap the homebrew/php libraries for more
+# PHP versions and extensions
+$ brew tap homebrew/php
+
 # If you use Apache instead of NGINX, add `--with-apache` option
 $ brew install php56 --with-homebrew-curl --with-imap --with-pear
 $ brew install php56-mcrypt php56-intl php56-ioncubeloader
