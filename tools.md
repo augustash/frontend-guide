@@ -1,10 +1,11 @@
-# Tools 
+# Tools
 
 ## Terminal
+
 Terminal is the built-in app for MacOS that allows you to interactive with your computer via the command line.
 
   * [Introduction](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
-  * [iTerm](https://www.iterm2.com) - Terminal replacement app that has a lot of useful/cool features
+  * [iTerm2](https://www.iterm2.com) - Terminal replacement app that has a lot of useful/cool features
 
 ## Terminus
 
