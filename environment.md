@@ -113,6 +113,40 @@ $ brew install rbenv ruby-build rbenv-bundle-exec
 4. Install common gems: `$ gem install bundler capistrano`
 
 
+### Brew Casks
+
+Use [Homebrew Cask](https://caskroom.github.io/) to download macOS applications and large binaries
+
+> Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike.
+
+```bash
+# Tap the caskroom/cask to get applications
+$ brew tap caskroom/cask
+```
+
+#### Common applications or large binaries
+
+* 1password
+* appcleaner
+* atom
+* dropbox
+* evernote
+* firefox
+* google-chrome
+* iterm2
+* java
+* sequel-pro
+* slack
+* sublime-text3
+* virtualbox
+* virtualbox-extension-pack
+* vagrant
+
+
+```bash
+$ brew cask install 1password appcleaner atom dropbox evernote firefox google-chrome iterm2 sequel-pro slack sublime-text3 virtualbox virtualbox-extension-pack vagrant
+```
+
 ## Pantheon
 
 Pantheon is our hosting partner for most of our Drupal or WordPress projects. Their setup gives us/client access to three environments (dev/test/live) per account and has a built-in git workflow.
